@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RAt_XiymOhsGGozxdHop">
+    <mxGraphModel dx="1717" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title1" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" value="Dashboard 1: Company KPI" vertex="1">
+          <mxGeometry height="40" width="420" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kpi1a" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="KPI Card" vertex="1">
+          <mxGeometry height="60" width="140" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kpi1b" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="KPI Card" vertex="1">
+          <mxGeometry height="60" width="140" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kpi1c" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="KPI Card" vertex="1">
+          <mxGeometry height="60" width="140" x="400" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bar1" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Bar Chart" vertex="1">
+          <mxGeometry height="100" width="360" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="table1" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Table" vertex="1">
+          <mxGeometry height="80" width="360" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="slicer1a" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Slicer" vertex="1">
+          <mxGeometry height="60" width="140" x="580" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="slicer1b" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Slicer" vertex="1">
+          <mxGeometry height="60" width="140" x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="title2" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" value="Dashboard 2: Camp Performance" vertex="1">
+          <mxGeometry height="40" width="420" x="40" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="kpi2" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="KPI Card" vertex="1">
+          <mxGeometry height="60" width="180" x="40" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="line2" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Line Chart" vertex="1">
+          <mxGeometry height="100" width="230" x="40" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="bar2" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Bar Chart" vertex="1">
+          <mxGeometry height="100" width="230" x="290" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="table2" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Table" vertex="1">
+          <mxGeometry height="80" width="480" x="40" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="slicer2" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Slicer" vertex="1">
+          <mxGeometry height="60" width="140" x="580" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="title3" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;" value="Dashboard 3: Device Maintenance" vertex="1">
+          <mxGeometry height="40" width="420" x="40" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="kpi3" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="KPI Card" vertex="1">
+          <mxGeometry height="60" width="180" x="40" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="table3" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Table" vertex="1">
+          <mxGeometry height="120" width="480" x="40" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="slicer3" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Slicer" vertex="1">
+          <mxGeometry height="60" width="140" x="580" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
